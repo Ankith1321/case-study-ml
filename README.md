@@ -27,6 +27,7 @@ Due to size constraints, the raw dataset is not included in this repository.
 ---
 
 ## Project Structure
+
 road_lane_detection/
 │
 ├── src/ # Training, evaluation, inference code
@@ -49,6 +50,7 @@ road_lane_detection/
 
 
 ---
+
 
 ## Methodology
 
@@ -155,3 +157,4 @@ python -m src.evaluate
 
 Run Lane Detection
 python -m src.main
+
