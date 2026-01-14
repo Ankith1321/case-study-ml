@@ -1,6 +1,21 @@
-venv/
-data/
-runs/
-models/checkpoints/
+# Python
 __pycache__/
+*.pyc
 
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# Training outputs
+runs/
+
+# Model weights
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+data/
